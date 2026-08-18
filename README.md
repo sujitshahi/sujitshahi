@@ -1,11 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=220&section=header&text=Sujit%20Shahi&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20with%20Full-Stack%20Foundation&descSize=18&descColor=cbd5e1" width="100%" />
+</p>
+
 <div align="center">
 
-  # Sujit Shahi
-  ### **Frontend Developer with Full-Stack Foundation**
-
-  <br>
-
-  <!-- Animated Typing Effect -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Scalable%2C+Production-Ready+Systems;Passionate+Frontend+Developer;React+%2F+Next.js+Specialist" alt="Typing SVG" />
   </a>
