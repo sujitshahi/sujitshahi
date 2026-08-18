@@ -1,7 +1,7 @@
 <div align="center">
 
-  # Your Name
-  ### **Full-Stack Developer | Frontend Specialist**
+  # Sujit Shahi
+  ### **Frontend Developer with Full-Stack Foundation**
 
   <br>
 
@@ -21,4 +21,4 @@
     </a>
   </p>
 
-</div>
+</div>        
