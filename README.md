@@ -16,7 +16,7 @@
     <a href="mailto:youremail@gmail.com">
       <img src="https://img.shields.io/badge/✉️%20GMAIL-youremail%40gmail.com-red?style=for-the-badge" alt="Gmail" />
     </a>
-    <a href="https://github.com/your-username">
+    <a href="https://github.com/sujitshahi">
       <img src="https://img.shields.io/badge/🐱%20GITHUB-your-username-24292e?style=for-the-badge" alt="GitHub" />
     </a>
   </p>
