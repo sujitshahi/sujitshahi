@@ -5,9 +5,12 @@
 
   <br>
 
-  ### `Building Scalable, Production-Ready Systems`
+  <!-- Animated Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Scalable%2C+Production-Ready+Systems;Passionate+Frontend+Developer;React+%2F+Next.js+Specialist" alt="Typing SVG" />
+  </a>
 
-  <br>
+  <br><br>
 
   <p>
     <a href="https://yourwebsite.com.np">
@@ -17,8 +20,8 @@
       <img src="https://img.shields.io/badge/✉️%20GMAIL-youremail%40gmail.com-red?style=for-the-badge" alt="Gmail" />
     </a>
     <a href="https://github.com/sujitshahi">
-      <img src="https://img.shields.io/badge/🐱%20GITHUB-your-username-24292e?style=for-the-badge" alt="GitHub" />
+      <img src="https://img.shields.io/badge/🐱%20GITHUB-sujitshahi-24292e?style=for-the-badge" alt="GitHub" />
     </a>
   </p>
 
-</div>        
+</div>
