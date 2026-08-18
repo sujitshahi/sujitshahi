@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sujitshahi/sujitshahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Your Name
+  ### **Full-Stack Developer | Frontend Specialist**
 
-Here are some ideas to get you started:
+  <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### `Building Scalable, Production-Ready Systems`
+
+  <br>
+
+  <p>
+    <a href="https://yourwebsite.com.np">
+      <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-yourwebsite.com.np-blue?style=for-the-badge" alt="Portfolio" />
+    </a>
+    <a href="mailto:youremail@gmail.com">
+      <img src="https://img.shields.io/badge/✉️%20GMAIL-youremail%40gmail.com-red?style=for-the-badge" alt="Gmail" />
+    </a>
+    <a href="https://github.com/your-username">
+      <img src="https://img.shields.io/badge/🐱%20GITHUB-your-username-24292e?style=for-the-badge" alt="GitHub" />
+    </a>
+  </p>
+
+</div>
