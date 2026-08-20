@@ -18,9 +18,8 @@
     <a href="gmail:shahisujit9@gmail.com">
       <img src="https://img.shields.io/badge/✉️%20GMAIL-youremail%40gmail.com-red?style=for-the-badge" alt="Gmail" />
     </a>
-    <a href="https://github.com/sujitshahi">
-      <!-- <img src="https://img.shields.io/badge/🐱%20GITHUB-sujitshahi-24292e?style=for-the-badge" alt="GitHub" /> -->
-    </a>
+
+    
   </p>
 
 </div>
