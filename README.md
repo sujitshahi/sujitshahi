@@ -15,10 +15,9 @@
     <a href="https://sujitshahi.com.np">
       <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-sujitshahi.com.np-blue?style=for-the-badge" alt="Portfolio" />
     </a>
-    <a href="gmail:shahisujit9@gmail.com">
-      <img src="https://img.shields.io/badge/✉️%20GMAIL-shahisujit9%40gmail.com-red?style=for-the-badge" alt="Gmail" />
-    </a>
-
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shahisujit9@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/✉️%20GMAIL-shahisujit9%40gmail.com-red?style=for-the-badge" alt="Gmail" />
+</a>
     
   </p>
 
