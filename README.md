@@ -25,9 +25,9 @@
 ---
 
 ### 💻 About Me
-* 🌱 I’m currently sharpening my skills in **Frontend Web Development** with a strong focus on React and Next.js.
-* 💡 Passionate about turning clean designs into responsive, high-performance web applications.
-* 🚀 Focused on delivering seamless user experiences and modern component architectures.
+*  I’m currently sharpening my skills in **Frontend Web Development** with a strong focus on React and Next.js.
+*  Passionate about turning clean designs into responsive, high-performance web applications.
+*  Focused on delivering seamless user experiences and modern component architectures.
 
 ---
 
@@ -50,10 +50,10 @@
 
 ### 🚀 Featured Projects
 
-* **🏫 Kider - Kindergarten Website Clone**
+* ** Kider - Kindergarten Website Clone**
   * *Description:* A high-fidelity, responsive kindergarten web application built with Next.js and Tailwind CSS featuring interactive layouts and optimized performance.
   * *Tech Stack:* Next.js, React, Tailwind CSS
 
-* **🛍️ E-Commerce Clothing Brand Platform**
+* ** E-Commerce Clothing Brand Platform**
   * *Description:* A modern storefront platform designed for product catalog management, persistent inventory tracking, and dynamic routing.
   * *Tech Stack:* Next.js, Tailwind CSS, Component Libraries
