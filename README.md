@@ -50,10 +50,9 @@
 
 ### 🚀 Featured Projects
 
-* ** Kider - Kindergarten Website Clone**
+ Kider - Kindergarten Website Clone**
   * *Description:* A high-fidelity, responsive kindergarten web application built with Next.js and Tailwind CSS featuring interactive layouts and optimized performance.
-  * *Tech Stack:* Next.js, React, Tailwind CSS
+Tech Stack:* Next.js, React, Tailwind CSS
 
-* ** E-Commerce Clothing Brand Platform**
-  * *Description:* A modern storefront platform designed for product catalog management, persistent inventory tracking, and dynamic routing.
+ E-Commerce Clothing Brand Platform Description: A modern storefront platform designed for product catalog management, persistent inventory tracking, and dynamic routing.
   * *Tech Stack:* Next.js, Tailwind CSS, Component Libraries
