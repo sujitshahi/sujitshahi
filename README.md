@@ -1,9 +1,10 @@
- <p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=285&section=header&text=Sujit%20Shahi&fontSize=42&fontColor=ffffff&animation=fadeIn&textY=70&desc=Frontend%20Developer&descSize=18&descColor=cbd5e1&descY=200" width="100%" />
 </p>
 
 <div align="center">
 
+  <!-- Animated Typing Effect -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Scalable%2C+Modern++Web+Applications;React+%2F+Next.js+Developer" alt="Typing SVG" />
   </a>
@@ -24,9 +25,9 @@
 ---
 
 ### 💻 About Me
-* I’m currently sharpening my skills in **Frontend Web Development** with a strong focus on React and Next.js.
-* Passionate about turning clean designs into responsive, high-performance web applications.
-* Focused on delivering seamless user experiences and modern component architectures.
+* Frontend developer specializing in building web apps with **React** and **Next.js**.
+* I enjoy taking UI design files and turning them into clean, responsive web pages.
+* Focused on writing maintainable code and building smooth user interfaces.
 
 ---
 
@@ -50,10 +51,9 @@
 ### 🚀 Featured Projects
 
 * **Kider - Kindergarten Website Clone**
-  * *Description:* A high-fidelity, responsive kindergarten web application built with Next.js and Tailwind CSS featuring interactive layouts and optimized performance.
+  * *Description:* A responsive kindergarten website built to practice layout design, performance optimization, and interactive components.
   * *Tech Stack:* Next.js, React, Tailwind CSS
 
-* **E-Commerce Clothing Brand Platform**
-  * *Description:* A modern storefront platform designed for product catalog management, persistent inventory tracking, and dynamic routing.
-  * *Tech Stack:* Next.js, Tailwind CSS, Component Libraries
-
+* **E-Commerce Storefront**
+  * *Description:* An online store platform featuring product listings, dynamic routing for individual item pages, and local state management for the shopping cart.
+  * *Tech Stack:* Next.js, Tailwind CSS
