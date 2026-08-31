@@ -1,10 +1,9 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=285&section=header&text=Sujit%20Shahi&fontSize=42&fontColor=ffffff&animation=fadeIn&textY=70&desc=Frontend%20Developer&descSize=18&descColor=cbd5e1&descY=200" width="100%" />
 </p>
 
 <div align="center">
 
-  <!-- Animated Typing Effect -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Scalable%2C+Modern++Web+Applications;React+%2F+Next.js+Developer" alt="Typing SVG" />
   </a>
@@ -56,4 +55,37 @@
 
 * **E-Commerce Clothing Brand Platform**
   * *Description:* A modern storefront platform designed for product catalog management, persistent inventory tracking, and dynamic routing.
-  * *Tech Stack:* Next.js, Tailwind CSS, Component Libraries
+  * *Tech Stack:* Next.js, Tailwind CSS, Component Libraries -->
+
+
+
+# Hi, I'm Sujit 👋
+
+Frontend developer focused on building fast, responsive web applications using React and Next.js. I like turning UI/UX designs into clean, maintainable code.
+
+🌐 **Portfolio:** [sujitshahi.com.np](https://sujitshahi.com.np)  
+✉️ **Email:** [shahisujit9@gmail.com](mailto:shahisujit9@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend:** React, Next.js, Tailwind CSS, HTML5, CSS3  
+**Tools:** Git, GitHub, Figma
+
+---
+
+### 🚀 Projects
+
+* **[Kider - Kindergarten Website Clone](https://github.com/sujitshahi)**  
+  A responsive web app built with Next.js and Tailwind CSS focusing on interactive layouts and performance.  
+  *Stack:* Next.js, React, Tailwind CSS
+
+* **[E-Commerce Storefront](https://github.com/sujitshahi)**  
+  A modern e-commerce platform with product catalogs, inventory management, and dynamic routing.  
+  *Stack:* Next.js, Tailwind CSS
+
+---
+
+### 📫 Connect
+Feel free to reach out if you want to collaborate on a project or just talk frontend dev!
