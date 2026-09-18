@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=285&section=header&text=Sujit%20Shahi&fontSize=42&fontColor=ffffff&animation=fadeIn&textY=70&desc=Frontend%20Developer&descSize=18&descColor=cbd5e1&descY=200" width="100%" />
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=285&section=header&text=Sujit%20Shahi&fontSize=42&fontColor=ffffff&animation=fadeIn&textY=70&desc=Frontend%20Developer&descSize=18&descColor=cbd5e1&descY=200" width="100%" /> -->
+  <img src="https://private-user-images.githubusercontent.com/70385488/646958276-dca441e6-6d37-44ac-a632-1e5e1a70e631.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODk3MzY3MDUsIm5iZiI6MTc4OTczNjQwNSwicGF0aCI6Ii83MDM4NTQ4OC82NDY5NTgyNzYtZGNhNDQxZTYtNmQzNy00NGFjLWE2MzItMWU1ZTFhNzBlNjMxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA5MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwOTE4VDEzMDAwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYzZDA4MzY0NzdmM2FhYzQwMTNhNGVjY2RiN2QwMTQ3OTEwZTMxMGRmMDdhZDczYzMzOGRhOWYwN2M5MGM2ZmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.UitLMHrAjPhmAt0RexSrMabvRg-hm3YxrK_UhAcWsy0" />
 </p>
+
+
 
 <div align="center">
 
