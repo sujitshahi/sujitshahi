@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0070f3&height=220&section=header&text=Sujit%20Shahi&fontSize=65&animation=fadeIn&stroke=38BDF8&strokeWidth=1" alt="Sujit Shahi" />
 </p>
 
-
-<div align="center">
-
   <!-- Animated Typing Effect -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Scalable%2C+Modern++Web+Applications;React+%2F+Next.js+developer” alt="Typing SVG" />
