@@ -22,7 +22,7 @@
 ---
 
 ### 💻 About Me
-* Frontend developer specializing in building web apps with **React** and **Next.js**.
+* Frontend dev specializing in building web apps with **React** and **Next.js**.
 * I enjoy taking UI design files and turning them into clean, responsive web pages.
 * Focused on writing maintainable code and building smooth user interfaces.
 
